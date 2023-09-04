@@ -1,1 +1,6 @@
+This is your well-known old-school Hangman game reimagined in Java.
+The rules are simple - there is a word hidden, and we have to put in letters before the man "gets hanged"
+Also contains a fun little graphic of the man, which is shown after each try
 
+The words are imported from an external file, which contains words selected from the English Dictionary
+The difficulty of words is set an medium, in generak because of the words present from the external file.
